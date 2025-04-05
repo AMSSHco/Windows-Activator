@@ -31,7 +31,7 @@
 
 
 ```shell
-iex (irm amssh.ws/windows)
+iex (irm amssh.co/windows)
 ```
 
 > This will fetch and run the latest AMS activation script directly in PowerShell.
